@@ -22,5 +22,8 @@ Go Through Time is a 3D single player puzzle game in which the player is able to
 ## 📦 Play the Game
 - Download the latest version here! (https://njnm.itch.io/gothroughtime)
 
+## 💻 Website
+- Check out our website here! (https://nonstop-buckthorn-4fc.notion.site/Go-Through-Time-15f49062f07380a89af2c58650ba5adf)
+
 ## 👩‍💻 About Me
 Created by Ysabella Vargas, a computer science and biology student at Tufts Univeristy, along with team members Jenni Lu, Junior Davis, and Roberto Garcia, other students and alumna of Tufts University.
